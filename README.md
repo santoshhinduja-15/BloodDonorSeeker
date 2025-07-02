@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdf8c873-59b3-4333-ad4b-9476b5d001b0)# BloodDonorSeeker
+# BloodDonorSeeker
 BloodDonorSeeker is a web-based blood donation platform designed to quickly connect patients in need of blood with nearby registered donors based on blood group and city.
 
 # Project Overview
