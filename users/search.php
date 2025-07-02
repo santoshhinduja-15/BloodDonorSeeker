@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <?php if ($user): ?>
                     <!-- ✅ Logged-in Navigation -->
                     <li class="nav-item">
-                        <a class="nav-link text-light" href="users/register_donor.php">
+                        <a class="nav-link text-light" href="register_donor.php">
                             <i class="bi bi-droplet-fill text-danger me-1"></i> Register Donor
                         </a>
                     </li>
